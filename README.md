@@ -1,3 +1,11 @@
+<!-- Resources -->
+
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- https://simpleicons.org/ -->
+<!-- https://shields.io/ -->
+
+<!-- Adapted from: https://github.com/vijayphoenix/vijayphoenix/blob/master/README.md -->
+
 # Holaa! :wave: I'm <a href="https://akashtadwai.netlify.app/">Akash</a>
 [![Linkedin Badge](https://img.shields.io/badge/-akashtadwai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashtadwai/)](https://www.linkedin.com/in/akashtadwai/ "Connect on LinkedIn")
 [![GitHub Badge](https://img.shields.io/badge/-akashtadwai-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/akashtadwai)](https://github.com/akashtadwai/ "Follow on GitHub")
