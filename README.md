@@ -18,7 +18,7 @@
 <details>
 <summary>Incoming QR analyst <a href="https://www.jpmorganchase.com/">@JP Morgan Chase</a> 👨‍🔬</summary>
 <ul>
-  <li>Working with JPMC as a QR analyst</li>
+  <li>Working with JPMC as a QR analyst in QR Rates Team, Mumbai</li>
 </ul>
 </details>
 
