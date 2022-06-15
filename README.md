@@ -25,8 +25,9 @@
 <details>
 <summary>ES-CSE, <a href="https://cse.iith.ac.in/">IIT Hyderabad</a> undergrad 👨‍🎓</summary>
 <ul>
-  <li>Bachelor of Technology in Computer Science and Engineering Science. (2018 - 2022)</li>
-  <li>CGPA: 9.25</li>
+  <li>Bachelor of Technology in Computer Science and Engineering Science with Minor in Entrepreneurship and Management. (2018 - 2022)</li>
+  <li>Major CGPA: 9.25</li>
+  <li>Minor CGPA: 9.75</li>
 </ul>
 </details>
 
