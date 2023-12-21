@@ -85,4 +85,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-green.svg)
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashtadwai&theme=default&show_icons=true&count_private=true&include_all_commits=true)
